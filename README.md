@@ -3,8 +3,8 @@ Simple Steamworks ban utility
 
 ## Requirements
 
-Python 3.7+
-Modules, included in `requirements.txt`
+* Python 3.7+
+* Modules, included in `requirements.txt`
 
 ## How to use
 
